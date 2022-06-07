@@ -7,3 +7,9 @@ function Carusel() {
 }
 
 export default Carusel
+
+
+
+
+
+
