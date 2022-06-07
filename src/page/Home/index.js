@@ -16,7 +16,7 @@ function Home() {
       {/* <Ratings/> */}
       {/* <FarFar/> */}
       {/* <Carusel/> */}
-      {/* <Latest/> */}
+      <Latest/>
       <Footer/>
     </div>
   )
