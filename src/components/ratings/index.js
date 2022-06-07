@@ -2,7 +2,9 @@ import React from 'react'
 
 function Ratings() {
   return (
-    <div>Ratings</div>
+    <div>
+      Ratings
+    </div>
   )
 }
 
