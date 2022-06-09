@@ -13,7 +13,7 @@ function Home() {
     <div>
       {/* <Navbar/> */}
       {/* <Banner/> */}
-      {/* <Ratings/> */}
+      <Ratings/>
       {/* <FarFar/> */}
       {/* <Carusel/> */}
       <Latest/>
