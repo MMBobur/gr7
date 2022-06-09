@@ -8,18 +8,16 @@ import Carusel from "./../../components/carusel";
 import Latest from "./../../components/latest";
 import Footer from "./../../components/footer";
 
-function Home() {
+export default () => {
   return (
     <div>
-      <Navbar/>
+      {/* <Navbar/>
       <Banner/>
-      <Ratings/>
+      <Ratings/> */}
       <FarFar/>
-      <Carusel/>
+      {/* <Carusel/>
       <Latest/>
-      <Footer/>
+      <Footer/> */}
     </div>
   )
 }
-
-export default Home
