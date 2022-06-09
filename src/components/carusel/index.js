@@ -59,3 +59,10 @@ export default function Carusel() {
     </>
   );
 }
+export default Carusel
+
+
+
+
+
+
